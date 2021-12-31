@@ -158,4 +158,3 @@ cython_debug/
 # my_ignore
 datas/
 models/
-./03.표준획득승점 선형회귀-tensorflow-공격수-피쳐엔지니어링_보강.ipynb
